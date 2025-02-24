@@ -1,1 +1,1 @@
-print ("Hallo, dunia!")
+print ("Hello, world!")
