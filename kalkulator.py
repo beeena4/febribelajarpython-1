@@ -6,7 +6,7 @@ print("===================================")
 
 angka_1 = int(input("Masukkan Angka 1             : "))
 angka_2 = int(input("Masukkan Angka 2             : "))
-operator = input("Masukkan Operator (+,-,x,/)  : ")
+operator = input("Pilih Operator (+,-,x,/)     : ")
 print("-----------------------------------")
 
 if operator == "+" :
@@ -22,4 +22,4 @@ elif operator == "/" :
     bagi = angka_1 / angka_2
     print(f"Hasil dari {angka_1} / {angka_2} = {bagi}")
 else:
-    print("Masukkan operator yang sudah ditentukan")
+    print("[ERROR] invalid operator")
