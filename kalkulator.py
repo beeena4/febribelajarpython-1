@@ -13,13 +13,12 @@ if operator == "+" :
     print(f"{angka_1} + {angka_2}      = {tambah}")
 elif operator == "-" :
     kurang = angka_1 - angka_2
-    print(f"Hasilnya adalah            = {kurang}")
+    print(f"{angka_1} - {angka_2}      = {kurang}")
 elif operator == "x" :
     kali = angka_1 * angka_2
-    print(f"Hasilnya adalah            = {kali}")
+    print(f"{angka_1} * {angka_2}      = {kali}")
 elif operator == "/" :
     bagi = angka_1 / angka_2
-    print(f"Hasilnya adalah            = {bagi}")
-
+    print(f"{angka_1} / {angka_2}        = {bagi}")
 else:
     print("Masukkan operator yang sudah ditentukan")
