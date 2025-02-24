@@ -2,9 +2,9 @@ print("===================================")
 print("        KALKULATOR SEDERHANA       ")
 print("===================================")
 
-angka_1 = int(input("Masukkan Angka 1             = "))
-operator = input("Masukkan Operator (+,-,x,/)  = ")
-angka_2 = int(input("Masukkan Angka 2             = "))
+angka_1 = int(input("Masukkan Angka 1             : "))
+operator = input("Masukkan Operator (+,-,x,/)  : ")
+angka_2 = int(input("Masukkan Angka 2             : "))
 print("-----------------------------------")
 
 if operator == "+" :
