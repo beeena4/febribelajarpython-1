@@ -1,10 +1,10 @@
-# sampel If Else 1, if.py:
+# sampel if 1
+# 006_A_FEBRIANA
 
-nilai = 3
-# jika pernyataan pada if bernilai TRUE maka if akan dieksekusi, tetapi jika FALSe kode pada else yang akan dieksekusi
+nilai = 9
+# jika kondisi benar/TRUE maka program akan mengeksekusi perintah dibawahnya
 if(nilai > 7):
     print("Selamat kita LULUS")
-else:
-    print("Maaf kita TIDAK LULUS")
-
-
+# jika kondisi salah/FALSE maka program tidak akan mengeksekusi perintah dibawahnya
+if(nilai > 10):
+    print("Selamat kita LULUS")

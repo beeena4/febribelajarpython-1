@@ -1,4 +1,5 @@
 # sampel elif 2, if6.py:
+# 006_A_FEBRIANA
 
 x = int(input("Masukkan angka : "))
 if x<5:
@@ -6,4 +7,4 @@ if x<5:
 elif x==5:
     print(x, "sama dengan 5")
 else:
-    print(x, "lebih dari 5")
+    print(x, "lebih besar dari 5")

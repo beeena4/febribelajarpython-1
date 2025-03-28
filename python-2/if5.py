@@ -1,4 +1,5 @@
 # sampel Elif 1, if5.py:
+# 006_A_FEBRIANA
 
 hari_ini = input("Masukkan Hari : ")
 
